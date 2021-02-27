@@ -1,3 +1,3 @@
-# REST API Development series
+# REST API Development Series
 
-This is the code to the 'Building the API - Exposing endpoints' sectioon. 
+This repository accompanies the source code for the article [*REST API Development - Exposing endpoints*](https://tharwatsw.com/articles/rest-api-development-building-the-api-exposing-endpoints/) found at [**tharwatsw.com**](https://tharwatsw.com).
